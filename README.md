@@ -1,18 +1,18 @@
-SimpleSell
-SimpleSell è na dashboard che permetta di
-gestire e aggiungere annunci di varie piattaforme diverse (ebay,amazon,wish) attraverso un'interfaccia intuitiva. L’utente non registrato
-che si interfaccia la prima volta al sistema dovrà eseguire obbligatoriamente la
-registrazione (email,password,partita iva, etc.) .
-Si premette che Alcuni utenti hanno la partita iva, e possono eseguire operazioni
-aggiuntive su piattaforme specifiche che la richiedono (amazon, wish…) altri no e
-dunque potranno interfacciarsi solo a piattaforme che non la richiedono.
-Gli annunci, ripartiti in piattaforme diverse, sono gestiti direttamente dalla nostra app.
-Collezionano tutti gli annunci inseriti nelle varie numerose piattaforme. Una volta
-registrato l’utente potrà effettuare il login e interfacciarsi al sistema. Nello specifico, la
-dashboard reindirizza l’utente alla home e mostra tutti gli annunci attivi delle varie
-piattaforme. La dashboard con apposita sezione permette di aggiungere nuovi annunci,
-composti da foto del prodotto selezionando le piattaforme di pubblicazione e altre info
-necessarie alla sua pubblicazione. In maniera intuitiva sarà possibile effettuare
-dall’applicazione eventuali modifiche dell’inserzione o la sua eliminazione. La sezione
-cerca, permetterà di trovare in maniera rapida un annuncio.
-Si noti che è stato realizzato solo il front-end. manca l'implementazione delle api delle varie piattaforme ed un database.
+# SimpleSell
+
+SimpleSell è una dashboard che permette agli utenti di gestire e aggiungere annunci su diverse piattaforme come eBay, Amazon e Wish. L'applicazione offre un'interfaccia intuitiva per facilitare la gestione degli annunci e semplificare il processo di pubblicazione su più piattaforme.
+
+## Funzionalità
+
+- **Registrazione utente**: Gli utenti devono registrarsi con email, password e partita IVA. Gli utenti con partita IVA possono accedere a funzionalità aggiuntive per piattaforme specifiche (come Amazon e Wish).
+- **Gestione annunci**: Gli utenti possono aggiungere, modificare e eliminare annunci tramite la dashboard.
+- **Sezione di ricerca**: Permette di trovare rapidamente un annuncio specifico.
+- **Interfaccia intuitiva**: L'interfaccia è progettata per rendere la gestione degli annunci semplice e veloce.
+
+## Tecnologie utilizzate
+
+- **SwiftUI**: Framework utilizzato per sviluppare l'interfaccia utente.
+- **Xcode**: Ambiente di sviluppo integrato (IDE) utilizzato per la realizzazione dell'app.
+  
+## Come iniziare
+
