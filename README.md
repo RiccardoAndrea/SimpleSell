@@ -15,4 +15,5 @@ SimpleSell è una dashboard che permette agli utenti di gestire e aggiungere ann
 - **Xcode**: Ambiente di sviluppo integrato (IDE) utilizzato per la realizzazione dell'app.
   
 ## Come iniziare
-
+Scarica La cartella ed importa il progetto sul mac e compilalo con xcode.
+Documemntazione sull'ingegnerizzazione del progetto ed il suo muck up presente in cartella. 
