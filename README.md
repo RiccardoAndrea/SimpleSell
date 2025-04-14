@@ -1,5 +1,8 @@
 # SimpleSell
 
+## Autori
+- **Riccardo Andrea Spinosa**
+- **Alessandro Massadoro**
 SimpleSell è una dashboard che permette agli utenti di gestire e aggiungere annunci su diverse piattaforme come eBay, Amazon e Wish. L'applicazione offre un'interfaccia intuitiva per facilitare la gestione degli annunci e semplificare il processo di pubblicazione su più piattaforme.
 
 ## Funzionalità
