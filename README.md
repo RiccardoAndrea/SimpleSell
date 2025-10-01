@@ -21,3 +21,8 @@ SimpleSell è una dashboard che permette agli utenti di gestire e aggiungere ann
 ## Come iniziare
 Scarica La cartella ed importa il progetto sul mac e compilalo con xcode.
 Documemntazione sull'ingegnerizzazione del progetto ed il suo muck up presente in cartella. 
+
+
+## Demo
+Presente come file scaricabile o visualizzabile al link:  
+[La demo di SimpleSell](https://youtu.be/qegykHrY-_g)
